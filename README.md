@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/img/Carla Truck Trailer.png" width=100% style="vertical-align: bottom;">
-<h2>Carla Truck Trailer: Simulation truck trailer system in a more realistic way</h2>
+<h2>Carla Truck Trailer: Simulate truck trailer system in a more realistic way</h2>
 
 [**Komasa Qi**](https://github.com/KomasaQi), School of Vehicle and Mobility, Tsinghua University
 <div align="center">
